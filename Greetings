@@ -1,0 +1,64 @@
+package ComprogActivities;
+
+public class Activity2 {
+
+	public static void main(String[] args) {
+	
+		
+		// comprog2
+		
+		String subject = "Greetings";
+		String sender = "Jane";
+		float  version = 1.2f;
+		char   status   = 'A';
+        String code = "ABC123";  
+        String location = "City XYZ";
+        int age = 30;
+        
+        String discount = "10.50%";
+        String company = "ABC Corporation";
+        String website = "www.example.com";
+        String phone = "+123-456-789";
+        String job = "Software Engineering";
+        String department = "Engineering";
+        
+        
+        System.out.println("Dear John, I hope this email finds you well.");
+        System.out.println("I want to reach out and say hello."); 
+        System.out.println("I hope you are doing well and enjoying your day.");  
+        System.out.println("It`s been a while since we last spoke, and I wanted to catch up with you.");  
+        System.out.println("Let`s plan to meet up soon and have a great time together!");       
+        System.out.println("Subject: "+subject);  
+        System.out.println("Sender: "+sender);  
+        System.out.println("Version: "+version);  
+        System.out.println("Discount: "+discount);       
+        System.out.println("Code:"+ code);  
+        System.out.println("Location: "+ location);  
+        System.out.println("Age: "+age);  
+        System.out.println("Company: "+company);  
+        System.out.println("Website: "+website);  
+        System.out.println("Phone: "+phone);  
+        System.out.println("Job title: "+job);  
+        System.out.println("Department:"+ department);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+	}
+	
+
+}
