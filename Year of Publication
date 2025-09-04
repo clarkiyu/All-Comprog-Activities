@@ -1,0 +1,33 @@
+package ComprogActivities;
+
+public class active1 {
+
+	public static void main(String[] args) {
+	
+
+		
+		
+		// comprog 2
+		
+		int year = 1925;
+		int day = 30;
+		int yearTwo = 2023;
+		String  genre = "fiction";
+ 		String  library = "General library";
+ 		int id = 12345;
+ 		String month = "June";
+ 		
+ 		System.out.println("Year of Publication: "+ year);
+ 		System.out.println("Genre: "+ genre);
+ 		System.out.println("Library: "+library);
+ 		
+ 		System.out.println("Member ID:"+ id);
+ 		System.out.println("Returndate:"+ month + day +","+yearTwo);
+ 		
+ 		
+ 	
+ 		
+ 		
+	}
+
+}
